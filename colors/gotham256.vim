@@ -73,7 +73,8 @@ let s:colors.base1 = { 'gui': '#11151c', 'cterm': 233 }
 let s:colors.base2 = { 'gui': '#091f2e', 'cterm': 17  }
 let s:colors.base3 = { 'gui': '#0a3749', 'cterm': 18  }
 let s:colors.base4 = { 'gui': '#245361', 'cterm': 24  }
-let s:colors.base5 = { 'gui': '#599cab', 'cterm': 81  }
+"let s:colors.base5 = { 'gui': '#599cab', 'cterm': 81  }
+let s:colors.base5 = { 'gui': '#599cab', 'cterm': 39  }
 let s:colors.base6 = { 'gui': '#99d1ce', 'cterm': 122 }
 let s:colors.base7 = { 'gui': '#d3ebe9', 'cterm': 194 }
 
